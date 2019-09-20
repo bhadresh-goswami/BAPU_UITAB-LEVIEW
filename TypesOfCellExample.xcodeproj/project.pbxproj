@@ -15,6 +15,7 @@
 		D7D5251F2334BDF20016F8C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7D5251D2334BDF20016F8C1 /* LaunchScreen.storyboard */; };
 		D7D5252A2334BDF20016F8C1 /* TypesOfCellExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7D525292334BDF20016F8C1 /* TypesOfCellExampleTests.swift */; };
 		D7D525352334BDF20016F8C1 /* TypesOfCellExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7D525342334BDF20016F8C1 /* TypesOfCellExampleUITests.swift */; };
+		D7D525432334C3850016F8C1 /* MyTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7D525422334C3850016F8C1 /* MyTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D7D525302334BDF20016F8C1 /* TypesOfCellExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TypesOfCellExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7D525342334BDF20016F8C1 /* TypesOfCellExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypesOfCellExampleUITests.swift; sourceTree = "<group>"; };
 		D7D525362334BDF20016F8C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D7D525422334C3850016F8C1 /* MyTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				D7D5251D2334BDF20016F8C1 /* LaunchScreen.storyboard */,
 				D7D525202334BDF20016F8C1 /* Info.plist */,
 				D7D525182334BDF20016F8C1 /* TypesOfCellExample.xcdatamodeld */,
+				D7D525422334C3850016F8C1 /* MyTableViewController.swift */,
 			);
 			path = TypesOfCellExample;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				D7D5251A2334BDF20016F8C1 /* TypesOfCellExample.xcdatamodeld in Sources */,
 				D7D525142334BDF20016F8C1 /* ViewController.swift in Sources */,
 				D7D525122334BDF20016F8C1 /* AppDelegate.swift in Sources */,
+				D7D525432334C3850016F8C1 /* MyTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
